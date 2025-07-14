@@ -1,0 +1,6 @@
+C:\Users\mythr\OneDrive\Desktop\ELECTRONIC\Analog project\pulse_duration_detector_full.net(5): Expected resistor parameter(s) here.
+R1 N013 0 (1.-x)*10K
+         ^^^^^^^^^^^
+C:\Users\mythr\OneDrive\Desktop\ELECTRONIC\Analog project\pulse_duration_detector_full.net(10): Unknown parameter
+V3 N014 0 X
+          ^
